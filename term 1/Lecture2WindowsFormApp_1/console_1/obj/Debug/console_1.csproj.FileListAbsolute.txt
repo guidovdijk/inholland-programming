@@ -1,0 +1,6 @@
+/Users/GuidoD/Desktop/School/OneDrive - Hogeschool Inholland/Term 1/Programming/term 1/Lecture2WindowsFormApp_1/console_1/bin/Debug/console_1.exe
+/Users/GuidoD/Desktop/School/OneDrive - Hogeschool Inholland/Term 1/Programming/term 1/Lecture2WindowsFormApp_1/console_1/bin/Debug/console_1.pdb
+/Users/GuidoD/Desktop/School/OneDrive - Hogeschool Inholland/Term 1/Programming/term 1/Lecture2WindowsFormApp_1/console_1/obj/Debug/console_1.csprojAssemblyReference.cache
+/Users/GuidoD/Desktop/School/OneDrive - Hogeschool Inholland/Term 1/Programming/term 1/Lecture2WindowsFormApp_1/console_1/obj/Debug/console_1.csproj.CoreCompileInputs.cache
+/Users/GuidoD/Desktop/School/OneDrive - Hogeschool Inholland/Term 1/Programming/term 1/Lecture2WindowsFormApp_1/console_1/obj/Debug/console_1.exe
+/Users/GuidoD/Desktop/School/OneDrive - Hogeschool Inholland/Term 1/Programming/term 1/Lecture2WindowsFormApp_1/console_1/obj/Debug/console_1.pdb

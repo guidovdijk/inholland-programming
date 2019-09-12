@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{416F4481-BF86-4E6F-9380-E0E5580C6929}|Default">
+  <MonoDevelop.Ide.ItemProperties.console__3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="console_2/Program.cs">
+    <Files>
+      <File FileName="console_2/Program.cs" Line="17" Column="9" />
+      <File FileName="console_3/Program.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lecture2WindowsFormApp_1" expanded="True">
+            <Node name="console_1" expanded="True" />
+            <Node name="console_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="console_3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.console__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.console__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lecture2WindowsFormApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

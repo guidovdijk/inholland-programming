@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\bin\Debug\Lecture2WindowsFormsApp5.exe.config
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\bin\Debug\Lecture2WindowsFormsApp5.exe
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\bin\Debug\Lecture2WindowsFormsApp5.pdb
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\obj\Debug\Lecture2WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\obj\Debug\Lecture2WindowsFormsApp5.Form1.resources
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\obj\Debug\Lecture2WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\obj\Debug\Lecture2WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\obj\Debug\Lecture2WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\obj\Debug\Lecture2WindowsFormsApp5.exe
+C:\Users\Gebruiker\Documents\School\programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp5\obj\Debug\Lecture2WindowsFormsApp5.pdb

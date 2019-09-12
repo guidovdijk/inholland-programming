@@ -1,0 +1,10 @@
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\bin\Debug\Lecture2WindowsFormsApp2.exe.config
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\bin\Debug\Lecture2WindowsFormsApp2.exe
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\bin\Debug\Lecture2WindowsFormsApp2.pdb
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\obj\Debug\Lecture2WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\obj\Debug\Lecture2WindowsFormsApp2.Form1.resources
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\obj\Debug\Lecture2WindowsFormsApp2.Properties.Resources.resources
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\obj\Debug\Lecture2WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\obj\Debug\Lecture2WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\obj\Debug\Lecture2WindowsFormsApp2.exe
+C:\Users\648539\OneDrive - Hogeschool Inholland\Term 1\Programming\term 1\Lecture2WindowsFormApp_1\Lecture2WindowsFormsApp2\obj\Debug\Lecture2WindowsFormsApp2.pdb

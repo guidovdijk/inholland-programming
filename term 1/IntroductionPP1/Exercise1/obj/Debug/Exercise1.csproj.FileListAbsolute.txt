@@ -1,0 +1,6 @@
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise1/bin/Debug/Exercise1.exe
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise1/bin/Debug/Exercise1.pdb
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise1/obj/Debug/Exercise1.csprojAssemblyReference.cache
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise1/obj/Debug/Exercise1.csproj.CoreCompileInputs.cache
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise1/obj/Debug/Exercise1.exe
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise1/obj/Debug/Exercise1.pdb

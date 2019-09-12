@@ -1,0 +1,5 @@
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise3/bin/Debug/Exercise3.exe
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise3/bin/Debug/Exercise3.pdb
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise3/obj/anycpu/Debug/Exercise3.csproj.CoreCompileInputs.cache
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise3/obj/anycpu/Debug/Exercise3.exe
+/Users/GuidoD/Desktop/School/Term 1/Programming/IntroductionPP1/Exercise3/obj/anycpu/Debug/Exercise3.pdb
